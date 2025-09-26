@@ -1,17 +1,5 @@
 {
-  "name": "saas-barbearia",
-  "version": "1.0.0",
-  "description": "curso node js",
-  "main": "node.js",
-  "scripts": {
-    "start-dev": "nodemon index.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.10"
-  },
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^17.2.2"
   }
 }
